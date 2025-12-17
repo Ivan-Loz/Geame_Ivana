@@ -1,0 +1,10 @@
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\bin\Debug\zmeika.exe.config
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\bin\Debug\zmeika.exe
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\bin\Debug\zmeika.pdb
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\obj\Debug\zmeika.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\obj\Debug\zmeika.Form1.resources
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\obj\Debug\zmeika.Properties.Resources.resources
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\obj\Debug\zmeika.csproj.GenerateResource.cache
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\obj\Debug\zmeika.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\obj\Debug\zmeika.exe
+C:\Users\Ученик_1\source\repos\zmeika\zmeika\obj\Debug\zmeika.pdb

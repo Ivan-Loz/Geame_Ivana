@@ -1,0 +1,10 @@
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\bin\Debug\Arkade.exe.config
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\bin\Debug\Arkade.exe
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\bin\Debug\Arkade.pdb
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\obj\Debug\Arkade.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\obj\Debug\Arkade.Form1.resources
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\obj\Debug\Arkade.Properties.Resources.resources
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\obj\Debug\Arkade.csproj.GenerateResource.cache
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\obj\Debug\Arkade.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\obj\Debug\Arkade.exe
+C:\Users\Ученик_1\source\repos\Arkade\Arkade\obj\Debug\Arkade.pdb
